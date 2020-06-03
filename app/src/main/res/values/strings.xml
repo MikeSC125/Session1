@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Session1</string>
+
+    <string-array name="menuItems">
+        <item>Portal</item>
+        <item>Settings</item>
+        <item>Help</item>
+        <item>About</item>
+    </string-array>
+
+</resources>
